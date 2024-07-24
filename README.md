@@ -15,7 +15,9 @@ PwC Switzerland Power BI Job Simulation on Forage - July 2024
    to data-driven decision-making.
 
  Skills i learned in this project 
- * CALCULATING MEASURES   DEFINING KPIS
-*  INSIGHT AND ACTION     INSIGHTS AND ACTIONS
-* POWER BI     POWER BI DASHBOARD
+ * CALCULATING MEASURES
+ * DEFINING KPIS
+*  INSIGHT AND ACTION
+* POWER BI
+* POWER BI DASHBOARD
 * SELF-REFLECTION

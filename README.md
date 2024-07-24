@@ -14,4 +14,8 @@ PwC Switzerland Power BI Job Simulation on Forage - July 2024
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
 
- 
+ Skills i learned in this project 
+ CALCULATING MEASURES   DEFINING KPIS
+INSIGHT AND ACTION     INSIGHTS AND ACTIONS
+POWER BI     POWER BI DASHBOARD
+SELF-REFLECTION
